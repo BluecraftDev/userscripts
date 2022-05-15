@@ -4,7 +4,7 @@
 		"version": 1.24
 	},
 	"client": {
-		"url": "https://github.com/6ct/client/releases",
+		"url": "https://github.com/6ct/clientpp/releases",
 		"version": 0.1
 	},
 	"lext": {
